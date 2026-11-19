@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OMAR VPN</string>
+    <string name="qs_tile_label">OMAR VPN</string>
+    <string name="notification_channel_vpn_name">VPN Tunnel Status</string>
+    <string name="notification_channel_vpn_desc">Persistent notification while an OMAR VPN WireGuard tunnel is active.</string>
+    <string name="vpn_notification_title_connected">OMAR VPN Connected</string>
+    <string name="vpn_notification_title_connecting">OMAR VPN Connecting…</string>
+    <string name="vpn_notification_action_disconnect">Disconnect</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "OMAR VPN",
+  "description": "Native Android WireGuard VPN client with server management, AUTO SERVER probing, Egypt Mobile Networks diagnostics, and Home Internet Boost.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
